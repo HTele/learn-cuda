@@ -27,6 +27,7 @@ module = torch.ops.my_module
 SOL_LOOKUP = {
     "NVIDIA GeForce RTX 5090": dict(bf16=209.5, int8=838),
     "NVIDIA RTX PRO 6000 Blackwell Server Edition": dict(bf16=503.8, int8=1007.6),
+    "NVIDIA RTX PRO 5000 72GB Blackwell": dict(bf16=294.8, int8=589.6),
 }
 
 
